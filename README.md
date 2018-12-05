@@ -1,2 +1,2 @@
 # Fun-Bio
-Just a fun little bio about me
+A basic bio about a basic guy.
